@@ -1,0 +1,7 @@
+Pillow
+customtkinter
+openpyxl
+
+
+#run code dibawah di terminal, hapus tanda tagar
+#pip install -r requirements.txt
